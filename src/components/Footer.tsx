@@ -61,15 +61,15 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-center text-royal-celestial/80">
                 <Mail className="w-4 h-4 mr-2" />
-                info@bichitras.com
+                contact@bichitras.com
               </li>
               <li className="flex items-center text-royal-celestial/80">
                 <Phone className="w-4 h-4 mr-2" />
-                +1 (555) 123-4567
+                +9846488103
               </li>
               <li className="flex items-center text-royal-celestial/80">
                 <MapPin className="w-4 h-4 mr-2" />
-                123 Digital Avenue, Tech City
+                Newroad, Pokhara
               </li>
             </ul>
           </div>
